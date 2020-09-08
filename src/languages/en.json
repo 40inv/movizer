@@ -1,0 +1,19 @@
+{
+  "test_message": "This is a test message",
+  "project_name": "Mood Emergency",
+  "choose_film": "Choose a random film",
+  "secondLine": "that will help you",
+  "thirdLine": "to lighten your mood",
+  "make_random": "Make random more specific.",
+  "choose_what": "Choose what you like. Choose what you feel.",
+  "genre": "Genre",
+  "mood": "Mood",
+  "time_period": "Time period",
+  "from": "From",
+  "to": "To",
+  "search_for_all": "Search for all time",
+  "search": "Search",
+  "release_date": "Release Date",
+  "description": "Description",
+  "trailer": "Trailer"
+}
